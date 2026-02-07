@@ -12,6 +12,7 @@ Company: Green Solutions Manufacturing Ltd
 Industry: Sustainable Consumer Goods Manufacturing
 Specialization: Sustainable drinkware (reusable water bottles and coffee cups)
 Relationship: Long-standing client seeking funding for sustainability initiatives
+resources available at https://drive.google.com/drive/u/0/folders/1cQlOQtgG0btBhU4wZArUnubApQpVnSHy
 
 🎯 Project Objectives
 Primary Goals:
